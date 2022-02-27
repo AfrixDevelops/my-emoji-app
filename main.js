@@ -7,7 +7,7 @@ const popBtn = document.getElementById("pop-btn")
 const shiftBtn = document.getElementById("shift-btn")
 const emojiInput = document.getElementById("emoji-input")
 
-const myEmojis = ["😈", "🖤", "🐱‍👤"]
+const myEmojis = ["😈", "🖤", "🐱‍👤", "🥶"]
 
 
 
